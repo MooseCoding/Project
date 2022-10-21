@@ -38,3 +38,15 @@ body {
      background-color: #04AA6D;
      color: white;
 }
+
+.red {
+    text-shadow: 2px 2px red;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
