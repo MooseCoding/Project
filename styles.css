@@ -1,6 +1,6 @@
 body {
-    background-color: #CD7F32;
-    
+    background-color: #B67233;
+   
     
 }
 
@@ -42,16 +42,24 @@ body {
 
 .red {
     text-shadow: 2px 2px red;
+    color: black;
 }
 
 p {
     font-size: 20px;
+    color: #2A4FB5;
 }
 
 h1 {
     font-size: 50px;
+    color: #286952;
 }
 
 .index {
     font-size: 200px;
+}
+
+h2 {
+    font-size: 50px;
+    color: #286952;
 }
