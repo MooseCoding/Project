@@ -63,3 +63,39 @@ h2 {
     font-size: 50px;
     color: #286952;
 }
+
+footer {
+    position: relative;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+#main {
+    float: left;
+    padding-left: 200px;
+    padding-right: 200px;
+    overflow: hidden;
+}
+
+#secondary_content {
+    position: relative;
+    float: left;
+    width: 125px;
+    right: 200px;
+    margin-left: -100%;
+    margin-bottom: -2000px;
+    padding-bottom: 2000px;
+}
+
+#main_content {
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-bottom: -2000px;
+    padding-bottom: 2000px;
+}
+
+h4 {
+    font-size: 40px;
+}
