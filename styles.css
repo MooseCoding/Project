@@ -1,6 +1,7 @@
 body {
     background-color: #CD7F32;
     
+    
 }
 
 .image {
@@ -49,4 +50,8 @@ p {
 
 h1 {
     font-size: 50px;
+}
+
+.index {
+    font-size: 200px;
 }
