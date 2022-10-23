@@ -69,6 +69,9 @@ footer {
     float: left;
     width: 100%;
     text-align: center;
+    border-color: red;
+    border: 10px;
+    
 }
 
 #main {
