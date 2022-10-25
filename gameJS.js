@@ -216,5 +216,197 @@ function checkMove() {
             document.getElementById(counter).innerHTML = "It is in Carlson's footlocker";
         }
     }
+
+    if (action == 4) {
+        if (item == 1) {
+            document.getElementById(counter).innerHTML = "You can't eat water, smh.";
+        }
+
+        if (item == 2) {
+            document.getElementById(counter).innerHTML = "You can't eat a person, that's called cannibalism, sometimes legal in Canada though.";
+        }
+
+        if (item == 3) {
+            document.getElementById(counter).innerHTML = "You can't eat a person, that's called cannibalism, sometimes legal in Canada though.";
+        }
+
+        if (item == 4) {
+            document.getElementById(counter).innerHTML = "You can't eat a person, that's called cannibalism, sometimes legal in Canada though.";
+        }
+
+        if (item == 5) {
+            document.getElementById(counter).innerHTML = "You can't eat a person, that's called cannibalism, sometimes legal in Canada though.";
+        }
+
+        if (item == 6) {
+            document.getElementById(counter).innerHTML = "You take a bite out of that apple from earlier.";
+        }
+
+        if (item == 7) {
+            document.getElementById(counter).innerHTML = "You can't eat a person, that's called cannibalism, sometimes legal in Canada though.";
+        }
+
+        if (item == 8) {
+            document.getElementById(counter).innerHTML = "You can't eat a person, that's called cannibalism, sometimes legal in Canada though.";
+        }
+
+        if (item == 9) {
+            document.getElementById(counter).innerHTML = "You can't eat a person, that's called cannibalism, sometimes legal in Canada though.";
+        }
+
+        if (item == 10) {
+            document.getElementById(counter).innerHTML = "You can't eat a person, that's called cannibalism, sometimes legal in Canada though.";
+        }
+
+        if (item == 11) {
+            document.getElementById(counter).innerHTML = "You can't eat ha-, you know what just eat it, i don't even care at this point.";
+        }
+
+        if (item == 12) {
+            document.getElementById(counter).innerHTML = "This is giving off serious 'I want to drink a gun' vibes rn. Seriously, enter that in instead of this at this point.";
+        }
+
+        if (item == 13) {
+            document.getElementById(counter).innerHTML = "This is giving off serious 'I want to drink a gun' vibes rn. Seriously, enter that in instead of this at this point.";
+        }
+
+        if (item == 14) {
+            document.getElementById(counter).innerHTML = "Nope, not gonna happen with this PG website";
+        }
+
+        if (item == 15) {
+            document.getElementById(counter).innerHTML = "Really, you had to see this. I am just not going to do my job now.";
+            gameEnded = true;
+        }
+    }
+
+    if (action == 5) {
+        document.getElementById(counter).innerHTML = "You escaped Soledad. Now time for the Oregon Trail just gotta hop in a time machine real fast.";
+    }
+
+    if (action == 6) {
+        if (item == 1) {
+            document.getElementById(counter).innerHTML = "You can't work water, smh.";
+        }
+
+        if (item == 2) {
+            document.getElementById(counter).innerHTML = "You can't work a person, that's called slavery";
+        }
+
+        if (item == 3) {
+            document.getElementById(counter).innerHTML = "You can't work a person, that's called slavery";
+        }
+
+        if (item == 4) {
+            document.getElementById(counter).innerHTML = "You can't work a person, that's called slavery";
+        }
+
+        if (item == 5) {
+            document.getElementById(counter).innerHTML = "You can't work a person, that's called slavery";
+        }
+
+        if (item == 6) {
+            document.getElementById(counter).innerHTML = "Just leave the game and Alt-F4 your computer.";
+        }
+
+        if (item == 7) {
+            document.getElementById(counter).innerHTML = "You can't work a person, that's called slavery";
+        }
+
+        if (item == 8) {
+            document.getElementById(counter).innerHTML = "You can't work a person, that's called slavery";
+            gameEnded = true;
+        }
+
+        if (item == 9) {
+            document.getElementById(counter).innerHTML = "You can't work a person, that's called slavery";
+        }
+
+        if (item == 10) {
+            document.getElementById(counter).innerHTML = "You can't work a person, that's called slavery";
+        }
+
+        if (item == 11) {
+            document.getElementById(counter).innerHTML = "You can't work hay.";
+        }
+
+        if (item == 12) {
+            document.getElementById(counter).innerHTML = "This is giving off serious 'I want to drink a gun' vibes rn. Seriously, enter that in instead of this at this point.";
+        }
+
+        if (item == 13) {
+            document.getElementById(counter).innerHTML = "This is giving off serious 'I want to drink a gun' vibes rn. Seriously, enter that in instead of this at this point.";
+        }
+
+        if (item == 14) {
+            document.getElementById(counter).innerHTML = "Nope, not gonna happen with this PG website";
+        }
+
+        if (item == 15) {
+            document.getElementById(counter).innerHTML = "You polish the gun and it looks the same because everything in the 1930s was in black and white.";
+        }
+    }
+
+    if (action == 7) {
+        if (item == 1) {
+            document.getElementById(counter).innerHTML = "Get in this jacket and padded room please.";
+        }
+
+        if (item == 2) {
+            document.getElementById(counter).innerHTML = "Curley says to get back to work";
+        }
+
+        if (item == 3) {
+            document.getElementById(counter).innerHTML = "Candy says that he is just the swamper that shouldn't talk to nobody but George";
+        }
+
+        if (item == 4) {
+            document.getElementById(counter).innerHTML = "George tips his hat at you and abandons you ";
+        }
+
+        if (item == 5) {
+            document.getElementById(counter).innerHTML = "The Boss screams and says that he is gonna dock your paycheck if you don't get back to work";
+        }
+
+        if (item == 6) {
+            document.getElementById(counter).innerHTML = "Just leave the game and Alt-F4 your computer.";
+        }
+
+        if (item == 7) {
+            document.getElementById(counter).innerHTML = "Carlson rolls his eyes and then proceeds to get hit by a bus.";
+        }
+
+        if (item == 8) {
+            document.getElementById(counter).innerHTML = "Crooks says to leave him alone"
+        }
+
+        if (item == 9) {
+            document.getElementById(counter).innerHTML = "Slim says that you should go with them once a month to Soledad.";
+        }
+
+        if (item == 10) {
+            document.getElementById(counter).innerHTML = "Curley's wife just walks away knowing what happened to the woman before her";
+        }
+
+        if (item == 11) {
+            document.getElementById(counter).innerHTML = "Get in this jacket and padded room please.";
+        }
+
+        if (item == 12) {
+            document.getElementById(counter).innerHTML = "Get in this jacket and padded room please.";
+        }
+
+        if (item == 13) {
+            document.getElementById(counter).innerHTML = "Get in this jacket and padded room please.";
+        }
+
+        if (item == 14) {
+            document.getElementById(counter).innerHTML = "Nope, not gonna happen with this PG website";
+        }
+
+        if (item == 15) {
+            document.getElementById(counter).innerHTML = "Get in this jacket and padded room now you're really talking to random objects.";
+        }
+    }
 }
 
