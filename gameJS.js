@@ -19,12 +19,13 @@ function checkInputs() {
     if (counter == 10) {
         counter = 0;
     }
+    checkMove();
     }
     else {
         document.getElementById(1).innerHTML = "I bet you tried to drink the gun. You tried to drink the gun.";
     }
 
-    checkMove();
+  
 }
 
 function checkMove() {
@@ -149,7 +150,7 @@ function checkMove() {
         }
 
         if (item == 15) {
-            document.getElementById(counter).innerHTML = "You really wanted to drink a gun, yeah no thats punishable by me just stopping this game.";
+            document.getElementById(counter).innerHTML = "You really wanted to drink a gun, yeah no thats punishable by me just stopping this game. Believe me if I could I would.";
             gameEnded == true;
         }
     }
