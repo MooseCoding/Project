@@ -13,8 +13,7 @@ function checkInputs() {
     document.getElementById("do").value = "";
     document.getElementById("to").value = "";
 
-    document.getElementById("x").innerHTML = action;
-    document.getElementById("y").innerHTML = item;
+    
 
     if (counter == 10) {
         counter = 0;
